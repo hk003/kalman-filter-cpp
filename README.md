@@ -9,10 +9,15 @@
 
 运行步骤：
 
-cd kalman-filter-cpp
-mkdir build && cd build
-make
-../demo/sort
+1：cd kalman-filter-cpp
+
+2：mkdir build && cd build
+
+3：cmake..
+
+4: make
+
+5：../demo/sort
 
 运行结果：
 
