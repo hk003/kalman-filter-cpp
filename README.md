@@ -7,7 +7,7 @@
 
 视频和label在原作者网页下载！
 
-运行步骤：
+ubuntu运行步骤：
 
 1：cd kalman-filter-cpp
 
